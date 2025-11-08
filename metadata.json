@@ -1,0 +1,5 @@
+{
+  "name": "Planora",
+  "description": "Planora is an intelligent study planner that leverages the Gemini API to create personalized and structured learning schedules. Users can input their study goals, timeframe, and specific deadlines to generate a detailed, day-by-day plan.",
+  "requestFramePermissions": []
+}
